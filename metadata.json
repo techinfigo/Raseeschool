@@ -1,0 +1,6 @@
+{
+  "name": "Rasee Global School",
+  "description": "Rasee Global School - A CBSE-affiliated school in Mainpuri, UP. Nurturing excellence through CBSE curriculum, ISO certification, and world-class facilities from Grade I to XII.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
